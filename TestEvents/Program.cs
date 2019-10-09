@@ -26,7 +26,9 @@ namespace TestEvents
             int R = E.Divide(N1,N2);
             Console.WriteLine($"{N1}/{N2}={R}");
 
+            Console.Write("Comment of GitHub");
             Console.Write("Presiona <Enter> para finalizar");
+            
             Console.ReadLine();
         }
         //PARA NO USAR ESTE MANEJADOR SE DECLARO CON LAMBDA DIRECTAMENTE EN EL E.DIVIDEBYZERO
