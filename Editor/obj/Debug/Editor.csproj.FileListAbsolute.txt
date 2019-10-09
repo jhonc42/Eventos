@@ -1,0 +1,5 @@
+C:\Users\jhon.calderon\Documents\Otros\Eventos\Editor\bin\Debug\Editor.dll
+C:\Users\jhon.calderon\Documents\Otros\Eventos\Editor\bin\Debug\Editor.pdb
+C:\Users\jhon.calderon\Documents\Otros\Eventos\Editor\obj\Debug\Editor.csprojResolveAssemblyReference.cache
+C:\Users\jhon.calderon\Documents\Otros\Eventos\Editor\obj\Debug\Editor.dll
+C:\Users\jhon.calderon\Documents\Otros\Eventos\Editor\obj\Debug\Editor.pdb

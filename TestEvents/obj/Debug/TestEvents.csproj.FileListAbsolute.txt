@@ -1,0 +1,7 @@
+C:\Users\jhon.calderon\Documents\Otros\Eventos\TestEvents\bin\Debug\TestEvents.exe
+C:\Users\jhon.calderon\Documents\Otros\Eventos\TestEvents\bin\Debug\TestEvents.pdb
+C:\Users\jhon.calderon\Documents\Otros\Eventos\TestEvents\bin\Debug\Editor.dll
+C:\Users\jhon.calderon\Documents\Otros\Eventos\TestEvents\bin\Debug\Editor.pdb
+C:\Users\jhon.calderon\Documents\Otros\Eventos\TestEvents\obj\Debug\TestEvents.csprojResolveAssemblyReference.cache
+C:\Users\jhon.calderon\Documents\Otros\Eventos\TestEvents\obj\Debug\TestEvents.exe
+C:\Users\jhon.calderon\Documents\Otros\Eventos\TestEvents\obj\Debug\TestEvents.pdb
